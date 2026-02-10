@@ -1,0 +1,14 @@
+# Python 学习常用库
+
+# 代码格式化和检查
+ruff
+
+# 交互式 Python
+ipython
+
+# HTTP 请求
+requests
+
+# 数据处理（可选，后续学习时安装）
+# pandas
+# numpy
